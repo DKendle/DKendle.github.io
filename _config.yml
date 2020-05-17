@@ -1,11 +1,11 @@
 # Site settings
 author: Dina Kendle
-title: 
+title: Curiously Coding
 header-img: img/home-bg.png
 email: dina.kendle@gmail.com
 copyright_name: Dina Kendle
 description: > # this means to ignore newlines until "baseurl:"
-  
+    
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: AsciiandCrafts
 github_username:  DKendle
